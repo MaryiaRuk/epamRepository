@@ -1,2 +1,3 @@
 New text
 Change from github
+Change from git gui
